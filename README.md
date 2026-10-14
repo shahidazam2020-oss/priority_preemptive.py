@@ -226,7 +226,7 @@ python priority_preemptive.py
 
 ### Step 4 — View the Results
 
-The program displays a process scheduling table containing:
+**The program displays a process scheduling table containing:**
 
 * Process ID
 * Arrival Time
