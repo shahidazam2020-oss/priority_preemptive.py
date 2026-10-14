@@ -98,7 +98,7 @@ In this implementation, **a smaller priority number represents a higher priority
 
 ### 🎓 Learning-Oriented
 
-Suitable for operating systems coursework, programming practice, and algorithm study.
+**Suitable for operating systems coursework, programming practice, and algorithm study.**
 
 </td>
 </tr>
