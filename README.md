@@ -66,7 +66,7 @@ In this implementation, **a smaller priority number represents a higher priority
 
 ### 🔄 Process Preemption
 
-Allows a newly arrived, higher-priority process to interrupt execution.
+**Allows a newly arrived, higher-priority process to interrupt execution.**
 
 </td>
 </tr>
