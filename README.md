@@ -82,7 +82,7 @@ In this implementation, **a smaller priority number represents a higher priority
 
 ### 🧮 Average Calculations
 
-Computes average waiting time and turnaround time.
+**Computes average waiting time and turnaround time.**
 
 </td>
 </tr>
