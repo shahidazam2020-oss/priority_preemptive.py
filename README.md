@@ -145,7 +145,7 @@ In this implementation, **a smaller priority number represents a higher priority
 
 ## 📐 Scheduling Formulas
 
-The program calculates the following metrics:
+**The program calculates the following metrics:**
 
 **1. Completion Time (CT)**
 
