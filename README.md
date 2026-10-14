@@ -91,7 +91,7 @@ In this implementation, **a smaller priority number represents a higher priority
 
 ### 🐍 Python Implementation
 
-Uses core Python concepts, lists, dictionaries, loops, and conditional statements.
+**Uses core Python concepts, lists, dictionaries, loops, and conditional statements.**
 
 </td>
 <td width="50%">
