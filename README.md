@@ -75,7 +75,7 @@ In this implementation, **a smaller priority number represents a higher priority
 
 ### 📊 Performance Metrics
 
-Calculates CT, TAT, and WT for every process.
+**Calculates CT, TAT, and WT for every process.**
 
 </td>
 <td width="50%">
