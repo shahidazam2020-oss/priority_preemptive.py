@@ -175,7 +175,7 @@ Average WT = Sum of Waiting Times / Number of Processes
 Average TAT = Sum of Turnaround Times / Number of Processes
 ```
 
-These metrics help evaluate how efficiently processes are scheduled.
+**These metrics help evaluate how efficiently processes are scheduled.**
 
 ## 🛠️ Technologies Used
 
