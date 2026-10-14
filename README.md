@@ -121,7 +121,7 @@ In this implementation, **a smaller priority number represents a higher priority
 
 ## 📥 Input Dataset
 
-The program uses the following sample processes:
+**The program uses the following sample processes:**
 
 | Process ID | Arrival Time (AT) | Burst Time (BT) | Priority |
 | :--------: | ----------------: | --------------: | -------: |
