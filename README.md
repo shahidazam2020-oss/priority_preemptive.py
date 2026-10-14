@@ -40,7 +40,7 @@ Preemptive Priority Scheduling is a CPU scheduling algorithm in which the operat
 
 In this implementation, **a smaller priority number represents a higher priority**. When a higher-priority process arrives, it can interrupt the currently running lower-priority process.
 
-This project demonstrates the core concepts of CPU scheduling through a straightforward Python implementation.
+**This project demonstrates the core concepts of CPU scheduling through a straightforward Python implementation.**
 
 ## 🎯 Project Objectives
 
