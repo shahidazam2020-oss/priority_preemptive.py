@@ -59,7 +59,7 @@ This project demonstrates the core concepts of CPU scheduling through a straight
 
 ### ⚙️ Priority-Based Scheduling
 
-Selects the available process with the highest priority.
+**Selects the available process with the highest priority.**
 
 </td>
 <td width="50%">
