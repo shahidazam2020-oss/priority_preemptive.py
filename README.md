@@ -106,7 +106,7 @@ In this implementation, **a smaller priority number represents a higher priority
 
 ## 🧠 Algorithm Workflow
 
-The scheduling algorithm follows these steps:
+**The scheduling algorithm follows these steps:**
 
 1. **Initialize processes:** Define each process's ID, arrival time, burst time, and priority.
 2. **Track remaining execution time:** Maintain the remaining burst time for every process.
