@@ -251,7 +251,7 @@ CPU-Scheduling-Algorithms/
 
 ## 💡 What I Learned
 
-This project reinforces several important concepts in computer science:
+**This project reinforces several important concepts in computer science:**
 
 * CPU scheduling and process management.
 * Preemptive scheduling techniques.
