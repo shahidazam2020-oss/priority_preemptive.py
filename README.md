@@ -236,7 +236,7 @@ python priority_preemptive.py
 * Turnaround Time
 * Waiting Time
 
-It also displays the average waiting time and average turnaround time.
+**It also displays the average waiting time and average turnaround time.**
 
 ## 📂 Project Structure
 
