@@ -149,7 +149,7 @@ In this implementation, **a smaller priority number represents a higher priority
 
 **1. Completion Time (CT)**
 
-The time at which a process finishes execution.
+**The time at which a process finishes execution.**
 
 **2. Turnaround Time (TAT)**
 
