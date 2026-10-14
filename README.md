@@ -212,7 +212,7 @@ cd CPU-Scheduling-Algorithms
 
 ### Step 3 — Run the Python Program
 
-If your file is named `python priority_preemptive.py`, execute:
+**If your file is named `python priority_preemptive.py`, execute:**
 
 ```bash
 python "python priority_preemptive.py"
