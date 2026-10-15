@@ -262,7 +262,7 @@ CPU-Scheduling-Algorithms/
 
 ## 🔮 Potential Improvements
 
-The current implementation provides a foundation for further development. Possible enhancements include:
+**The current implementation provides a foundation for further development. Possible enhancements include:**
 
 * **Gantt Chart Visualization:** Display process execution intervals graphically.
 * **Dynamic Input:** Allow users to enter process information interactively.
