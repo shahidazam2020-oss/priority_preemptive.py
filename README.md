@@ -1,5 +1,14 @@
 <div align="center">
 
+<a href="https://github.com/shahidazam2020-oss/priority_preemptive.py/stargazers">
+    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/priority_preemptive.py?style=social&cacheSeconds=60" alt="GitHub Stars">
+  </a>
+
+
+
+  </p>
+
+  ---
 # ⚡ Preemptive Priority CPU Scheduling
 
 ### A Python Implementation of Operating System Scheduling Algorithms
