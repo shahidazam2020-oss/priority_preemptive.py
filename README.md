@@ -3,7 +3,9 @@
 <a href="https://github.com/shahidazam2020-oss/priority_preemptive.py/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/priority_preemptive.py?style=social&cacheSeconds=60" alt="GitHub Stars">
   </a>
-
+ <a href="https://github.com/shahidazam2020-oss/priority_preemptive.py/forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/priority_preemptive.py?style=social&cacheSeconds=60" alt="GitHub Forks">
+  </a>
 
 
   </p>
